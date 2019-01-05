@@ -1,0 +1,6 @@
+C:\New folder\DataObjects\bin\Debug\DataObjects.dll
+C:\New folder\DataObjects\bin\Debug\DataObjects.pdb
+C:\New folder\DataObjects\obj\Debug\DataObjects.csprojAssemblyReference.cache
+C:\New folder\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\New folder\DataObjects\obj\Debug\DataObjects.dll
+C:\New folder\DataObjects\obj\Debug\DataObjects.pdb
